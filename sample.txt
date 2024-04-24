@@ -1,0 +1,25 @@
+1111
+s1First s1Last
+3.92
+CS1
+CS7
+#
+2222
+s2First s2Last
+4.00
+CS2
+CS16
+#
+3333
+s3First s3Last
+3.07
+CS2
+CS16
+CS7
+#
+4444
+s4First s4Last
+2.98
+CS1
+CS7
+#
