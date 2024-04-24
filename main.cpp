@@ -18,7 +18,7 @@ int main() {
     file.open("/Users/hankim/CLionProjects/hannah/sample.txt");
     if (!file.is_open())
     {
-        cerr << "Failed to open file." << endl;
+        cout << "Failed to open file." << endl;
         return 1;
     }
 
