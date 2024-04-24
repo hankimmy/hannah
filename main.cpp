@@ -4,7 +4,6 @@
 
 using namespace std;
 
-const int MAX_COURSES = 10;
 
 int main() {
     /*
